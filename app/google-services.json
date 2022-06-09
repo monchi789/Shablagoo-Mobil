@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "333683042020",
+    "firebase_url": "https://shablagoo-db-9ae20-default-rtdb.firebaseio.com",
+    "project_id": "shablagoo-db-9ae20",
+    "storage_bucket": "shablagoo-db-9ae20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333683042020:android:9a167d3c9358bb1e8b2ef1",
+        "android_client_info": {
+          "package_name": "com.example.shablagoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333683042020-lqu8rivnhcs9tjv4jp0kvsdeim1s78nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PLIi-1bZ22LBwesyxmxojRLE8MOP3Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333683042020-lqu8rivnhcs9tjv4jp0kvsdeim1s78nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333683042020:android:aea3a456d45940768b2ef1",
+        "android_client_info": {
+          "package_name": "com.example.shablagoo_ds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333683042020-lqu8rivnhcs9tjv4jp0kvsdeim1s78nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PLIi-1bZ22LBwesyxmxojRLE8MOP3Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333683042020-lqu8rivnhcs9tjv4jp0kvsdeim1s78nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333683042020:android:15398ae3b97b87228b2ef1",
+        "android_client_info": {
+          "package_name": "com.example.shablagoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333683042020-lqu8rivnhcs9tjv4jp0kvsdeim1s78nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PLIi-1bZ22LBwesyxmxojRLE8MOP3Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333683042020-lqu8rivnhcs9tjv4jp0kvsdeim1s78nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
